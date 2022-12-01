@@ -18,3 +18,5 @@ The game also has specials actions, activated by the keys G, H, and J (bottom fi
 - Special 3 (C): next time the ball touches the player's board, two balls are reflected.
 
 Obs.:  all specials are deactivated once one of the players make a point.
+
+run game: `python partida.py`

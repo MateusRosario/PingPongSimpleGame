@@ -20,3 +20,5 @@ O jogo também tem especiais, ativados pelas teclas G, H e J (campo de baixo) e 
 - Especial 3 (C): próxima vez que a bola toca na prancha do player, duas bolas são refletidas.
 
 Obs.: todos os especiais são desativados após algum dos players ganhar ponto.
+
+executar jogo: `python partida.py`
